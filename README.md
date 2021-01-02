@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.ice50303:atzc_public_sdk:Tag'
+	        implementation 'com.github.ice50303:atzc_public_sdk:tag_image_show'
 	}
  
 
